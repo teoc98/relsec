@@ -1,0 +1,7 @@
+[package]
+name = "relsec"
+version = "0.1.0"
+entrypoint = "relsec.typ"
+authors = ["teoc98"]
+license = " GPL-3.0-only "
+description = "Relative sectioning for Typst"
